@@ -100,7 +100,7 @@ the path to the file.txt (`--classes path/to/file.txt`) that contains the list o
 
 **Note**: for classes that are composed by different
 words please use the `_` character instead of the space (only for the inline use of the argument `--classes`).
-Example: `Polar_bear`.
+Example: `Polar_bear`. Tên chính xác của class có thể xem ở phần `category` [tại đây](https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F07dd4)
 
 Let's for example download Apples and Oranges from the validation set. In this case we have to use the following command.
   ```bash
