@@ -6,7 +6,7 @@ Use toolkit normally to gather images from open images dataset. After gathering 
 ```bash
 python convert_annotations.py
 ```
-This will generate .txt annotation files in proper format for custom object detection with YOLOv3. The text files are generated in folder with images.
+This will generate .txt annotation files in proper format for custom object detection with `YOLOv3`. The text files are generated in folder with images.
 
 <h1 align="center"> ~ OIDv4 ToolKit ~ </h1>
 
