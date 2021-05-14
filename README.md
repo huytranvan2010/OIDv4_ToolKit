@@ -2,7 +2,7 @@
 My added script is: 
 <strong>convert_annotations.py</strong>
 
-Use toolkit normally to gather images from open images dataset. After gathering images just run from root directory:
+Use toolkit normally to gather images from open images dataset. Do annotation của nó lưu `XMin, XMax, YMin, YMax` do đó ta cần chuyển về đúng định dạng của YOLOv3. After gathering images just run from root directory:
 ```bash
 python convert_annotations.py
 ```
