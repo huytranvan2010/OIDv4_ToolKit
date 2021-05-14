@@ -106,6 +106,7 @@ Let's for example download Apples and Oranges from the validation set. In this c
   ```bash
    python3 main.py downloader --classes Apple Orange --type_csv validation
    ```
+Sau `--type_csv` có thể truyền vào `train` để lấy bộ dữ liệu train.
 The algorith will take care to download all the necessary files and build the directory structure like this:
 
 ```
