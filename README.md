@@ -164,7 +164,7 @@ Again if we want to download Apple and Oranges, but in a common folder
   ```bash
    python3 main.py downloader --classes Apple Orange --type_csv validation --multiclasses 1
    ```
-
+Thêm `--multiclasses 1` để lưu tất cả ảnh của các classes vào một folder, sau này mình gán nhãn cũng để vào 1 folder có thể tiện hơn cho việc training.
 ### Annotations
 
 <img align="right" src="images/rectangle.png">
